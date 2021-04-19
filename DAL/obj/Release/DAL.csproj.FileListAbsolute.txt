@@ -1,0 +1,5 @@
+E:\C#实训\OverWatch游戏数据管理系统\DAL\bin\Release\DAL.dll
+E:\C#实训\OverWatch游戏数据管理系统\DAL\bin\Release\DAL.pdb
+E:\C#实训\OverWatch游戏数据管理系统\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+E:\C#实训\OverWatch游戏数据管理系统\DAL\obj\Release\DAL.dll
+E:\C#实训\OverWatch游戏数据管理系统\DAL\obj\Release\DAL.pdb
